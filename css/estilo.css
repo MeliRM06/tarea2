@@ -1,0 +1,87 @@
+*
+{ margin: 10px; padding: 0px;}
+#principal
+{
+    margin: auto;
+    border-radius: 30px;
+    border-style: solid;
+    width: 350px;
+    height: 700px;
+    background-color: rgb(78, 252, 252);
+}
+#caja1
+{
+    margin: auto;
+    width: 140px;
+    height: 140px;
+    border-radius: 90px;
+    border-style: solid;
+    background-color:rgb(255, 255, 255);
+}
+#caja2
+{
+    padding: 1px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+#caja3
+{
+    margin: auto;
+    width: 290px;
+    height: 290px;
+    border-radius: 200px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+#caja
+{
+    width: 20px;
+    height: 15px;
+}
+#caja4
+{
+    margin-top: 28px;
+    margin-left: 28px;
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    background-color: black;
+    
+    
+    
+}
+#caja5
+{
+    margin: auto;
+    width: 270px;
+    height: 15px;
+    border-radius: 100px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+
+}
+#caja6
+{
+    margin-left: 80px;
+    margin-top: -32px;
+    width: 20px;
+    height:20px;
+    border-radius: 100px;
+    border-style: solid;
+    background-color: black;
+
+}
+#caja7
+{
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    width: 60px;
+    height: 8px;
+    
+}
